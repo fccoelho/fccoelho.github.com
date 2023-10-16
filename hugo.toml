@@ -1,0 +1,4 @@
+baseURL = 'https://fccoelho.github.io/'
+languageCode = 'en-us'
+title = 'My Personal Site'
+theme = 'personal-web'
