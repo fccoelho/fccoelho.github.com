@@ -6,9 +6,11 @@ authors = ["Flavio Codeço Coelho <fccoelho@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = ">3.11,<3.13"
 pandas = "^2.1.1"
 scholarly = "^1.7.11"
+pybtex = "^0.24.0"
+tqdm = "^4.66.1"
 
 
 [build-system]
