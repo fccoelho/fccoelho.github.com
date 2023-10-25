@@ -1,6 +1,8 @@
 ---
-title: Publications
-description: 'Publications'
+title: "Publications"
+date: 2023-10-25T13:18:45+01:00
+excludeFromTopNav: false
+showDate: false
 ---
 
 ## Publication list

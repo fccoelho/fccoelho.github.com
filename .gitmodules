@@ -4,3 +4,6 @@
 [submodule "themes/personal-web"]
 	path = themes/personal-web
 	url = https://github.com/bjacquemet/personal-web.git
+[submodule "themes/bilberry-hugo-theme"]
+	path = themes/bilberry-hugo-theme
+	url = https://github.com/Lednerb/bilberry-hugo-theme.git

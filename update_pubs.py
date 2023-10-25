@@ -61,8 +61,7 @@ def gen_ref_list():
                                      output_backend="markdown")
         pubfile.write(md)
 
-def append_pubs():
-    with
+
 
 if __name__== "__main__":
     author = get_author()

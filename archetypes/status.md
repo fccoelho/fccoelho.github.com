@@ -1,10 +1,10 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 
+icon: ""
+showDate: false
 categories: []
 tags: []
-toc: false
 author: ""
 ---
