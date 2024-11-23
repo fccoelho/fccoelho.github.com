@@ -1,13 +1,8 @@
 ---
-title: "Page"
+title: "Welcome"
 date: 2024-11-23T10:50:14-03:00
-draft: true
+draft: false
 excludeFromTopNav: false
-
-# set the link if you want to redirect the user.
-link: ""
-# set the html target parameter if you want to change default behavior
-target: "_blank"
 ---
 Hey,
 
