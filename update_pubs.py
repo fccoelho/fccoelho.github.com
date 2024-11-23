@@ -2,6 +2,7 @@ from scholarly import scholarly
 import pandas as pd
 import json
 import os
+import re
 import datetime
 from tqdm import tqdm
 import pickle
@@ -68,8 +69,21 @@ def gen_ref_list():
                                      style="unsrt",
                                      # output_encoding="utf-8",
                                      output_backend="markdown")
+        md = replace_numbering_patterns(md)
         pubfile.write(md)
 
+def replace_numbering_patterns(text):
+    # Regular expression pattern to match [number]
+    pattern = r'\[(\d+)\]'
+
+    # Function to convert matched number to 'number . '
+    def replacement(match):
+        return f'{match.group(1)}. '
+
+    # Replace all occurrences of the pattern with the replacement
+    text = re.sub(pattern, replacement, text)
+
+    return text
 
 
 if __name__== "__main__":
