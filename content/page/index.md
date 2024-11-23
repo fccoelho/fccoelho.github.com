@@ -1,9 +1,14 @@
 ---
-title: Home
-description: Welcome to my website
-images: ["/static/images/sample.jpg"]
----
+title: "Page"
+date: 2024-11-23T10:50:14-03:00
+draft: true
+excludeFromTopNav: false
 
+# set the link if you want to redirect the user.
+link: ""
+# set the html target parameter if you want to change default behavior
+target: "_blank"
+---
 Hey,
 
 I'm Flávio, professor of Applied Mathematics and Data Science at [EMAp](https://emap.fgv.br/en).
