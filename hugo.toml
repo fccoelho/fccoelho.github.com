@@ -92,11 +92,11 @@ customImage = ""
 overlayIcon = "fa-home"
 
 # always display the top navigation (with pages and search) on non-mobile screens
-permanentTopNav = true
+permanentTopNav = false
 
 # always display the top navigation when scrolling
 # works only with permanentTopNav = true
-stickyNav = true
+stickyNav = false
 
 # show a language chooser in the header
 showHeaderLanguageChooser = true
@@ -147,6 +147,7 @@ showSocialMedia = true
 # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
 socialMediaLinks = [
     { link = "https://twitter.com/fccoelho", icon = "fab fa-twitter", rel = "me" },
+    { link = "https://bsky.app/profile/fccoelho.bsky.social", icon = "fab fa-bluesky", rel = "me" },
     { link = "https://github.com/fccoelho", icon = "fab fa-github" },
 ]
 
