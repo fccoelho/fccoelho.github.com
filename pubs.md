@@ -1,99 +1,99 @@
 1.  Eduardo C Araujo, Claudia T Codeço, Sandro Loch, Luã B Vacaro, Laís P Freitas, Raquel M Lana, Leonardo S Bastos, Iasmim F de Almeida, Fernanda Valente, Luiz M Carvalho, and Flávio C Coelho\.
 Large\-scale epidemiological modeling: scanning for mosquito\-borne diseases spatio\-temporal patterns in brazil\.
 *arXiv preprint arXiv:2407\.21286*, 2024\.  
-2.  Fábio Corrêa Cordeiro, Patrícia Ferreira da Silva, Alexandre Tessarollo, Cláudia Freitas, Elvis de Souza, Diogo da Silva Magalhaes Gomes, Renato Rocha Souza, and Flávio Codeço Coelho\.
+2.  Tereza Magalhaes, Flávio Codeço Coelho, Wayner V Souza, Isabelle FT Viana, Thomas Jaenisch, Ernesto TA Marques, Brian D Foy, and Cynthia Braga\.
+Effect of sexual partnerships on zika virus transmission in virus\-endemic region, northeast brazil\.
+*Emerging infectious diseases*, 30\(12\):2559&ndash;2566, 2024\.  
+3.  Fábio Corrêa Cordeiro, Patrícia Ferreira da Silva, Alexandre Tessarollo, Cláudia Freitas, Elvis de Souza, Diogo da Silva Magalhaes Gomes, Renato Rocha Souza, and Flávio Codeço Coelho\.
 Petro nlp: resources for natural language processing and information extraction for the oil and gas industry\.
 *Computers &amp; Geosciences*, 193:105714, 2024\.  
-3.  Fabiana Ganem, Luã Bida Vacaro, Eduardo Correa Araujo, Leon Diniz Alves, Leonardo Bastos, Luiz Max Carvalho, Iasmim Almeida, Asla Medeiros de Sá, and Flávio Codeço Coelho\.
+4.  Fabiana Ganem, Luã Bida Vacaro, Eduardo Correa Araujo, Leon Diniz Alves, Leonardo Bastos, Luiz Max Carvalho, Iasmim Almeida, Asla Medeiros de Sá, and Flávio Codeço Coelho\.
 Mosqlimate: a platform to providing automatable access to data and forecasting models for arbovirus disease\.
 *arXiv preprint arXiv:2410\.18945*, 2024\.  
-4.  Laís Picinini Freitas, Cláudia Torres Codeço, Leonardo Soares Bastos, Daniel Antunes Maciel Villela, Oswaldo Gonçalves Cruz, Antonio Guilherme Pacheco, Flavio Codeço Coelho, Raquel Martins Lana, Luiz Max Fagundes de Carvalho, Roberta Pereira Niquini, Walquiria Aparecida Ferreira de Almeida, Daiana Araújo da Silva, Felipe Cotrim de Carvalho, and Marcelo Ferreira da Costa Gomes\.
+5.  Laís Picinini Freitas, Cláudia Torres Codeço, Leonardo Soares Bastos, Daniel Antunes Maciel Villela, Oswaldo Gonçalves Cruz, Antonio Guilherme Pacheco, Flavio Codeço Coelho, Raquel Martins Lana, Luiz Max Fagundes de Carvalho, Roberta Pereira Niquini, Walquiria Aparecida Ferreira de Almeida, Daiana Araújo da Silva, Felipe Cotrim de Carvalho, and Marcelo Ferreira da Costa Gomes\.
 Evaluation of the design of the influenza\-like illness sentinel surveillance system in brazil\.
 *Cadernos de Saúde Pública*, 40:e00028823, 2024\.  
-5.  Cleber Vinicius Brito Dos Santos, Naiara Cristina Morais Valiati, Tatiana Guimarães de Noronha, Victor Bertollo Gomes Porto, Antônio Guilherme Pacheco, Laís Picinini Freitas, Flávio Codeço Coelho, Marcelo Ferreira da Costa Gomes, Leonardo Soares Bastos, Oswaldo Gonçalves Cruz, Raquel Martins Lana, Paula Mendes Luz, Luiz Max Fagundes de Carvalho, Guilherme Loureiro Werneck, Claudio José Struchiner, and Daniel Antunes Maciel Villela\.
+6.  Cleber Vinicius Brito Dos Santos, Naiara Cristina Morais Valiati, Tatiana Guimarães de Noronha, Victor Bertollo Gomes Porto, Antônio Guilherme Pacheco, Laís Picinini Freitas, Flávio Codeço Coelho, Marcelo Ferreira da Costa Gomes, Leonardo Soares Bastos, Oswaldo Gonçalves Cruz, Raquel Martins Lana, Paula Mendes Luz, Luiz Max Fagundes de Carvalho, Guilherme Loureiro Werneck, Claudio José Struchiner, and Daniel Antunes Maciel Villela\.
 The effectiveness of covid\-19 vaccines against severe cases and deaths in brazil from 2021 to 2022: a registry\-based study\.
 *The Lancet Regional Health–Americas*, 2023\.  
-6.  Iasmim Ferreira de Almeida, Claudia Torres Codeço, Raquel Martins Lana, Leonardo Soares Bastos, Sara de Souza Oliveira, Danielle Andreza da Cruz Ferreira, Vinicius Barbosa Godinho, Thais Irene Souza Riback, Oswaldo Gonçalves Cruz, and Flavio Codeço Coelho\.
+7.  Iasmim Ferreira de Almeida, Claudia Torres Codeço, Raquel Martins Lana, Leonardo Soares Bastos, Sara de Souza Oliveira, Danielle Andreza da Cruz Ferreira, Vinicius Barbosa Godinho, Thais Irene Souza Riback, Oswaldo Gonçalves Cruz, and Flavio Codeço Coelho\.
 The expansion of chikungunya in brazil\.
 *The Lancet Regional Health–Americas*, 2023\.  
-7.  Luiz M Carvalho, Daniel AM Villela, Flavio C Coelho, and Leonardo S Bastos\.
+8.  Luiz M Carvalho, Daniel AM Villela, Flavio C Coelho, and Leonardo S Bastos\.
 Bayesian inference for the weights in logarithmic pooling\.
 *Bayesian Analysis*, 18\(1\):223&ndash;251, 2023\.  
-8.  Flávio Coelho, Daniel Cardoso Portela Câmara, Eduardo Correa Araújo, Lucas Monteiro Bianchi, Ivan Ogasawara, Jyoti Dalal, Ananthu James, Jessica L Abbate, Aziza Merzouki, Izabel Cristina Dos Reis, Kene David Nwosu, and Olivia Keiser\.
+9.  Flávio Coelho, Daniel Cardoso Portela Câmara, Eduardo Correa Araújo, Lucas Monteiro Bianchi, Ivan Ogasawara, Jyoti Dalal, Ananthu James, Jessica L Abbate, Aziza Merzouki, Izabel Cristina Dos Reis, Kene David Nwosu, and Olivia Keiser\.
 A platform for data\-centric, continuous epidemiological analyses \(epigraphhub\): descriptive analysis\.
 *Journal of Medical Internet Research*, 25:e40554, 2023\.  
-9.  Aurélio A Araújo, Cláudia Codeço, Dayvison FS Freitas, Priscila M\. de Macedo, Sandro A\. Pereira, Isabella DF Gremião, and Flávio Codeço Coelho\.
+10.  Aurélio A Araújo, Cláudia Codeço, Dayvison FS Freitas, Priscila M\. de Macedo, Sandro A\. Pereira, Isabella DF Gremião, and Flávio Codeço Coelho\.
 Mathematical model of the dynamics of transmission and control of sporotrichosis in domestic cats\.
 *Plos one*, 18\(2\):e0272672, 2023\.  
-10.  Eduardo C Araujo and Flávio C Coelho\.
+11.  Eduardo C Araujo and Flávio C Coelho\.
 Evaluating transfer learning for forecasting chikungunya cases\.
 *Proceeding Series of the Brazilian Society of Computational and Applied Mathematics*, 2023\.  
-11.  Flávio C Coelho and Heliana R de Mello\.
+12.  Flávio C Coelho and Heliana R de Mello\.
 Ai and humans: friends or foes?
 *SocArXiv\. October*, 2023\.  
-12.  Claudia T Codeco, Sara S Oliveira, Danielle AC Ferreira, Thais IS Riback, Leonardo S Bastos, Raquel M Lana, Iasmim F Almeida, Vinicius B Godinho, Oswaldo G Cruz, and Flavio C Coelho\.
+13.  Claudia T Codeco, Sara S Oliveira, Danielle AC Ferreira, Thais IS Riback, Leonardo S Bastos, Raquel M Lana, Iasmim F Almeida, Vinicius B Godinho, Oswaldo G Cruz, and Flavio C Coelho\.
 Fast expansion of dengue in brazil\.
 *The Lancet Regional Health–Americas*, 2022\.  
-13.  Ananthu James, Jyoti Dalal, Timokleia Kousi, Daniela Vivacqua, Daniel Cardoso Portela Câmara, Izabel Cristina Dos Reis, Sara Botero Mesa, Wignston Ng’ambi, Papy Ansobi, Lucas M Bianchi, Theresa M Lee, Opeayo Ogundiran, Beat Stoll, Cleophas Chimbetete, Franck Mboussou, Benido Impouma, Cristina Barroso Hofer, Flávio Codeço Coelho, Olivia Keiser, and Jessica Lee Abbate\.
+14.  Ananthu James, Jyoti Dalal, Timokleia Kousi, Daniela Vivacqua, Daniel Cardoso Portela Câmara, Izabel Cristina Dos Reis, Sara Botero Mesa, Wignston Ng’ambi, Papy Ansobi, Lucas M Bianchi, Theresa M Lee, Opeayo Ogundiran, Beat Stoll, Cleophas Chimbetete, Franck Mboussou, Benido Impouma, Cristina Barroso Hofer, Flávio Codeço Coelho, Olivia Keiser, and Jessica Lee Abbate\.
 An in\-depth statistical analysis of the covid\-19 pandemic’s initial spread in the who african region\.
 *BMJ global health*, 7\(4\):e007295, 2022\.  
-14.  Benido Impouma, Alice LJ Carr, Alexander Spina, Franck Mboussou, Opeayo Ogundiran, Fleury Moussana, George Sie Williams, Caitlin M Wolfe, Bridget Farham, Antoine Flahault, Claudia Codeco Tores, Jessica L Abbate, Flávio Codeço Coelho, and Olivia Keiser\.
+15.  Benido Impouma, Alice LJ Carr, Alexander Spina, Franck Mboussou, Opeayo Ogundiran, Fleury Moussana, George Sie Williams, Caitlin M Wolfe, Bridget Farham, Antoine Flahault, Claudia Codeco Tores, Jessica L Abbate, Flávio Codeço Coelho, and Olivia Keiser\.
 Time to death and risk factors associated with mortality among covid\-19 cases in countries within the who african region in the early stages of the covid\-19 pandemic\.
 *Epidemiology &amp; Infection*, 150:e73, 2022\.  
-15.  Sam Miller, Tobias Preis, Giovanni Mizzi, Leonardo Soares Bastos, Marcelo Ferreira da Costa Gomes, Flávio Codeço Coelho, Claudia Torres Codeço, and Helen Susannah Moat\.
+16.  Sam Miller, Tobias Preis, Giovanni Mizzi, Leonardo Soares Bastos, Marcelo Ferreira da Costa Gomes, Flávio Codeço Coelho, Claudia Torres Codeço, and Helen Susannah Moat\.
 Faster indicators of chikungunya incidence using google searches\.
 *PLOS Neglected Tropical Diseases*, 16\(6\):e0010441, 2022\.  
-16.  Sara Botero\-Mesa, Flavio Codeço Coelho, Kenechukwu Nwosu, Bertil Wicht, Akarsh Venkatasubramanian, Olena Wagner, Camille Valera, Benedict Nguimbis, Daniel Câmara, Izabel Reis, Lucas Bianchi, Morteza Mahdiani, Papy Ansobi Onsimbie, Papa Amadou Niang Diallo, Léa Jacques, Artur Manuel Muloliwa, Moussa Bougma, Leckson Mukavhi, Adit Kaneria, Ram Peruvemba, Ajay Gupta, Isotta Triulzi, Ananthu James, Verena Carrara, Wingston Ngambi, Zahra Habibi, Michael Tedros Adhanom, Sabina Rodriguez Velásquez, Paolo Sestito, Timokleia Kousil, Loza Biru, Daniela Vivacqua, Jyoti Dalal, Anatole Mian, Maroussia Roelens, Erol Orel, Cristina Barroso Hofer, Fatihiyya Wangara, Franck Mboussou, Tamayi Mlanda, Arish Bukhari, Theresa Min\-Hyung Lee, Roland Ngom, Beat Stoll, Cleophas Chimbetete, Jessica Abbate, Benido Impouma, and Olivia Keiser\.
+17.  Sara Botero\-Mesa, Flavio Codeço Coelho, Kenechukwu Nwosu, Bertil Wicht, Akarsh Venkatasubramanian, Olena Wagner, Camille Valera, Benedict Nguimbis, Daniel Câmara, Izabel Reis, Lucas Bianchi, Morteza Mahdiani, Papy Ansobi Onsimbie, Papa Amadou Niang Diallo, Léa Jacques, Artur Manuel Muloliwa, Moussa Bougma, Leckson Mukavhi, Adit Kaneria, Ram Peruvemba, Ajay Gupta, Isotta Triulzi, Ananthu James, Verena Carrara, Wingston Ngambi, Zahra Habibi, Michael Tedros Adhanom, Sabina Rodriguez Velásquez, Paolo Sestito, Timokleia Kousil, Loza Biru, Daniela Vivacqua, Jyoti Dalal, Anatole Mian, Maroussia Roelens, Erol Orel, Cristina Barroso Hofer, Fatihiyya Wangara, Franck Mboussou, Tamayi Mlanda, Arish Bukhari, Theresa Min\-Hyung Lee, Roland Ngom, Beat Stoll, Cleophas Chimbetete, Jessica Abbate, Benido Impouma, and Olivia Keiser\.
 Leveraging human resources for outbreak analysis: lessons from an international collaboration to support the sub\-saharan african covid\-19 response\.
 *BMC Public Health*, 22\(1\):1073, 2022\.  
-17.  Flávio Codeço Coelho, Eduardo Corrêa Araújo, and Olivia Keiser\.
+18.  Flávio Codeço Coelho, Eduardo Corrêa Araújo, and Olivia Keiser\.
 Covid\-19 in switzerland real\-time epidemiological analyses powered by epigraphhub\.
 *Scientific Data*, 9\(1\):707, 2022\.  
-18.  Jyoti Dalal, Danna Cruz Reyes, Nicolas Hulo, Angela Martinez, Flavio Coelho, Olivia Keiser, and Minerva C Rivas Velarde\.
+19.  Jyoti Dalal, Danna Cruz Reyes, Nicolas Hulo, Angela Martinez, Flavio Coelho, Olivia Keiser, and Minerva C Rivas Velarde\.
 Health inequities across d/deaf persons in lmic: examining high rates of potentially preventable loss of sight, cognition, mobility, self\-care, and communication across deaf population in colombia\.
 *Deaf Persons in LMIC: Examining High Rates of Potentially Preventable Loss of Sight, Cognition, Mobility, Self\-Care, and Communication Across Deaf Population in Colombia*, 2022\.  
-19.  Raquel Martins Lana, Laís Picinini Freitas, Cláudia Torres Codeço, Antônio Guilherme Pacheco, Luiz Max Fagundes de Carvalho, Daniel Antunes Maciel Villela, Flávio Codeço Coelho, Oswaldo Gonçalves Cruz, Roberta Pereira Niquini, Victor Bertollo Gomes Porto, Caroline Gava, Marcelo Ferreira da Costa Gomes, and Leonardo Soares Bastos\.
+20.  Raquel Martins Lana, Laís Picinini Freitas, Cláudia Torres Codeço, Antônio Guilherme Pacheco, Luiz Max Fagundes de Carvalho, Daniel Antunes Maciel Villela, Flávio Codeço Coelho, Oswaldo Gonçalves Cruz, Roberta Pereira Niquini, Victor Bertollo Gomes Porto, Caroline Gava, Marcelo Ferreira da Costa Gomes, and Leonardo Soares Bastos\.
 Identification of priority groups for covid\-19 vaccination in brazil\.
 *Cadernos de Saúde Pública*, 37:e00049821, 2021\.  
-20.  Claudia T Codeço, Ana P Dal'Asta, Ana C Rorato, Raquel M Lana, Tatiana C Neves, Cecilia S Andreazzi, Milton Barbosa, Maria IS Escada, Danilo A Fernandes, Danuzia L Rodrigues, Izabel C Reis, Monica Silva\-Nunes, Alexandre B Gontijo, Flavio C Coelho, and Antonio MV Monteiro\.
+21.  Claudia T Codeço, Ana P Dal'Asta, Ana C Rorato, Raquel M Lana, Tatiana C Neves, Cecilia S Andreazzi, Milton Barbosa, Maria IS Escada, Danilo A Fernandes, Danuzia L Rodrigues, Izabel C Reis, Monica Silva\-Nunes, Alexandre B Gontijo, Flavio C Coelho, and Antonio MV Monteiro\.
 Epidemiology, biodiversity, and technological trajectories in the brazilian amazon: from malaria to covid\-19\.
 *Frontiers in Public Health*, 9:647754, 2021\.  
-21.  Jyoti Dalal, Isotta Triulzi, Ananthu James, Benedict Nguimbis, Gabriela Guizzo Dri, Akarsh Venkatasubramanian, Lucie Noubi Tchoupopnou Royd, Sara Botero Mesa, Claire Somerville, Giuseppe Turchetti, Beat Stoll, Jessica Lee Abbate, Franck Mboussou, Benido Impouma, Olivia Keiser, and Flávio Codeço Coelho\.
+22.  Jyoti Dalal, Isotta Triulzi, Ananthu James, Benedict Nguimbis, Gabriela Guizzo Dri, Akarsh Venkatasubramanian, Lucie Noubi Tchoupopnou Royd, Sara Botero Mesa, Claire Somerville, Giuseppe Turchetti, Beat Stoll, Jessica Lee Abbate, Franck Mboussou, Benido Impouma, Olivia Keiser, and Flávio Codeço Coelho\.
 Covid\-19 mortality in women and men in sub\-saharan africa: a cross\-sectional study\.
 *BMJ global health*, 6\(11\):e007225, 2021\.  
-22.  Daniel AM Villela, Tatiana Guimarães de Noronha, Leonardo S Bastos, Antonio G Pacheco, Oswaldo G Cruz, Luiz Max Carvalho, Claudia Torres Codeço, Marcelo Ferreira da Costa Gomes, Flávio Codeço Coelho, Laís Picinini Freitas, Raquel Martins Lana, Victor Bertollo Gomes Porto, Luiz Antônio Bastos Camacho, and Claudio José Struchiner\.
+23.  Daniel AM Villela, Tatiana Guimarães de Noronha, Leonardo S Bastos, Antonio G Pacheco, Oswaldo G Cruz, Luiz Max Carvalho, Claudia Torres Codeço, Marcelo Ferreira da Costa Gomes, Flávio Codeço Coelho, Laís Picinini Freitas, Raquel Martins Lana, Victor Bertollo Gomes Porto, Luiz Antônio Bastos Camacho, and Claudio José Struchiner\.
 Effectiveness of mass vaccination in brazil against severe covid\-19 cases\.
 *MedRxiv*, pages 2021\.09\. 10\.21263084, 2021\.  
-23.  Leon Diniz Alves, Raquel Martins Lana, and Flávio Codeço Coelho\.
+24.  Leon Diniz Alves, Raquel Martins Lana, and Flávio Codeço Coelho\.
 A framework for weather\-driven dengue virus transmission dynamics in different brazilian regions\.
 *International Journal of Environmental Research and Public Health*, 18\(18\):9493, 2021\.  
-24.  Aurélio A Araújo, Cláudia Codeço, Dayvison FS Freitas, Priscila M de Macedo, Sandro A Pereira, Isabella DF Gremião, and Flávio C Coelho\.
+25.  Aurélio A Araújo, Cláudia Codeço, Dayvison FS Freitas, Priscila M de Macedo, Sandro A Pereira, Isabella DF Gremião, and Flávio C Coelho\.
 Transmission dynamics and control of sporotrichosis in domestic felines\.
 *bioRxiv*, pages 2021\.12\. 20\.473612, 2021\.  
-25.  Raquel Martins Lana, Flávio Codeço Coelho, Marcelo Ferreira da Costa Gomes, Oswaldo Gonçalves Cruz, Leonardo Soares Bastos, Daniel Antunes Maciel Villela, and Cláudia Torres Codeço\.
+26.  Raquel Martins Lana, Flávio Codeço Coelho, Marcelo Ferreira da Costa Gomes, Oswaldo Gonçalves Cruz, Leonardo Soares Bastos, Daniel Antunes Maciel Villela, and Cláudia Torres Codeço\.
 Emergência do novo coronavírus \(sars\-cov\-2\) e o papel de uma vigilância nacional em saúde oportuna e efetiva\.
 *Cadernos de Saúde Pública*, 36:e00019620, 2020\.  
-26.  Leonardo Soares Bastos, Roberta Pereira Niquini, Raquel Martins Lana, Daniel AM Villela, Oswaldo G Cruz, Flávio C Coelho, Claudia T Codeço, and Marcelo FC Gomes\.
+27.  Leonardo Soares Bastos, Roberta Pereira Niquini, Raquel Martins Lana, Daniel AM Villela, Oswaldo G Cruz, Flávio C Coelho, Claudia T Codeço, and Marcelo FC Gomes\.
 Covid\-19 e hospitalizações por srag no brasil: uma comparação até a 12ª semana epidemiológica de 2020\.
 *Cadernos de Saúde Pública*, 36\(4\):e00070120, 2020\.  
-27.  Roberta Pereira Niquini, Raquel Martins Lana, Antonio Guilherme Pacheco, Oswaldo Gonçalves Cruz, Flávio Codeço Coelho, Luiz Max Carvalho, Daniel Antunes Maciel Villela, Marcelo Ferreira da Costa Gomes, and Leonardo Soares Bastos\.
+28.  Roberta Pereira Niquini, Raquel Martins Lana, Antonio Guilherme Pacheco, Oswaldo Gonçalves Cruz, Flávio Codeço Coelho, Luiz Max Carvalho, Daniel Antunes Maciel Villela, Marcelo Ferreira da Costa Gomes, and Leonardo Soares Bastos\.
 Description and comparison of demographic characteristics and comorbidities in sari from covid\-19, sari from influenza, and the brazilian general population\.
 *Cadernos de Saúde Pública*, 36:e00149420, 2020\.  
-28.  Flávio C Coelho, Raquel M Lana, Oswaldo G Cruz, Daniel AM Villela, Leonardo S Bastos, Ana Pastore y Piontti, Jessica T Davis, Alessandro Vespignani, Claudia T Codeço, and Marcelo FC Gomes\.
+29.  Flávio C Coelho, Raquel M Lana, Oswaldo G Cruz, Daniel AM Villela, Leonardo S Bastos, Ana Pastore y Piontti, Jessica T Davis, Alessandro Vespignani, Claudia T Codeço, and Marcelo FC Gomes\.
 Assessing the spread of covid\-19 in brazil: mobility, morbidity and social vulnerability\.
 *PLoS One*, 15\(9\):e0238214, 2020\.  
-29.  Elisa Mussumeci and Flávio Codeço Coelho\.
+30.  Elisa Mussumeci and Flávio Codeço Coelho\.
 Large\-scale multivariate forecasting models for dengue\-lstm versus random forest regression\.
 *Spatial and Spatio\-temporal Epidemiology*, 35:100372, 2020\.  
-30.  Alessandra Jordano Conforte, Leon Alves, Flávio Codeço Coelho, Nicolas Carels, and Fabrício Alves Barbosa da Silva\.
+31.  Alessandra Jordano Conforte, Leon Alves, Flávio Codeço Coelho, Nicolas Carels, and Fabrício Alves Barbosa da Silva\.
 Modeling basins of attraction for breast cancer using hopfield networks\.
 *Frontiers in Genetics*, 11:314, 2020\.  
-31.  Flávio Codeço Coelho, Nicolaus Linneu De Holanda, and Beatriz Coimbra\.
+32.  Flávio Codeço Coelho, Nicolaus Linneu De Holanda, and Beatriz Coimbra\.
 Transfer learning applied to the forecast of mosquito\-borne diseases\.
 *MedRxiv*, pages 2020\.02\. 03\.20020164, 2020\.  
-32.  FC Coelho, RM Lana, OG Cruz, D Villela, LS Bastos, AP Piontti, JT Davis, A Vespignani, CT Codeço, and MFC Gomes\.
-Assessing the potential impact of covid\-19 in brazil: mobility, morbidity, and the burden on the health care system\. medrxiv preprint\.
-*DOI*, 10\(2020\.03\):19\.20039131, 2020\.  
 33.  Flávio Codeço Coelho, Luiz Max Carvalho, Raquel M Lana, Oswaldo G Cruz, Leonardo S Bastos, Claudia T Codeço, Marcelo FC Gomes, and Daniel Villela\.
 Modeling the post\-containment elimination of transmission of covid\-19\.
 *medRxiv*, pages 2020\.06\. 15\.20132050, 2020\.  

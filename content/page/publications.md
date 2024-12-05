@@ -11,6 +11,9 @@ showDate: false
 1.  Eduardo C Araujo, Claudia T Codeço, Sandro Loch, Luã B Vacaro, Laís P Freitas, Raquel M Lana, Leonardo S Bastos, Iasmim F de Almeida, Fernanda Valente, Luiz M Carvalho, and Flávio C Coelho\.
 Large\-scale epidemiological modeling: scanning for mosquito\-borne diseases spatio\-temporal patterns in brazil\.
 *arXiv preprint arXiv:2407\.21286*, 2024\.
+2.  Tereza Magalhaes, Flávio Codeço Coelho, Wayner V Souza, Isabelle FT Viana, Thomas Jaenisch, Ernesto TA Marques, Brian D Foy, and Cynthia Braga\.
+Effect of sexual partnerships on zika virus transmission in virus\-endemic region, northeast brazil\.
+*Emerging infectious diseases*, 30\(12\):2559&ndash;2566, 2024\.
 2.  Fábio Corrêa Cordeiro, Patrícia Ferreira da Silva, Alexandre Tessarollo, Cláudia Freitas, Elvis de Souza, Diogo da Silva Magalhaes Gomes, Renato Rocha Souza, and Flávio Codeço Coelho\.
 Petro nlp: resources for natural language processing and information extraction for the oil and gas industry\.
 *Computers &amp; Geosciences*, 193:105714, 2024\.
