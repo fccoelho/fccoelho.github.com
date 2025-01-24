@@ -19,6 +19,7 @@ The local Members are based in Rio de Janeiro, Brazil, at the School of Applied 
 - Zuilho Segundo: works on Optimal decision making in the context of infectious diseases, applyin Reinforcement Learning techniques.
 - Sillas Rocha: works developing Sentiment analysis using LLMs for the Mosqlimate project.
 ### Graduate students:
+- Carlos Cesar Fonseca (MSc Student): Models for synthetic populations, applied to Epidemiology.
 - Henrique Guedes (MSc Student): Works on dengue forecasting using transformers
 - Pedro Vilela (MSc Student): Works on agent-based models for social action.
 - Anna Manrique (PhD Student): Works on modeling the dynamics of polarization on social networks.
