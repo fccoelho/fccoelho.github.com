@@ -1,7 +1,7 @@
 ---
-title: "Team"
+title: " Research Team"
 date: 2025-01-24T16:45:38-03:00
-draft: true
+draft: false
 excludeFromTopNav: false
 
 # set the link if you want to redirect the user.

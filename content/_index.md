@@ -15,3 +15,5 @@ Another big focus of my research revolves aroud data analysis and the applicatio
 [Get to know me better](/about "Get to know me better")
 
 [My publications](/publications "My publications")
+
+[Research team](/team "Research team")
