@@ -103,5 +103,5 @@ if __name__== "__main__":
         pickle.dump(pubs, open(f'pubs.pkl', 'wb'))
     save_bib([p['bib'] for p in pubs])
     gen_ref_list()
-    dfpubs = pd.DataFrame(pubs)
+    # dfpubs = pd.DataFrame(pubs)
     # print (dfpubs.iloc[0])
