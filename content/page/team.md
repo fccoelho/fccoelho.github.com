@@ -17,16 +17,20 @@ My research team is composed of students, Postdocs and collaborators from all ov
 The local Members are based in Rio de Janeiro, Brazil, at the School of Applied Mathematics at FGV.
 ### Undergraduate students:
 - Zuilho Segundo: works on Optimal decision making in the context of infectious diseases, applyin Reinforcement Learning techniques.
-- Sillas Rocha: works developing Sentiment analysis using LLMs for the Mosqlimate project.
+- Sillas Rocha: works developing AI agents for the Mosqlimate project.
+- Ana Julia Amaro: Develops scientific computing tools for infectious diseases modeling.
+- Eduarda Mesquita: Works with OneHealth models in the Amazonian region
 ### Graduate students:
 - Carlos Cesar Fonseca (MSc Student): Models for synthetic populations, applied to Epidemiology.
 - Henrique Guedes (MSc Student): Works on dengue forecasting using transformers
 - Pedro Vilela (MSc Student): Works on agent-based models for social action.
 - Anna Manrique (PhD Student): Works on modeling the dynamics of polarization on social networks.
+- Joyce Figueiró (PhD Student): Works on modeling Heterogeneous epidemic models
 ### Postdocs
 - Dr. Beatriz Laiate: Works on Bayesian Inference, Epidemic modeling  and Theory of possibilities.
 - Dr. Julie Souza: Works on estimating parameters of infectious diseases models using Physics Informed Neural Networks.
 - Dr. Daniel CP Câmara: Statistical modeling applied to Infectious diseases.
+
 
 ## Remote Brazilian members
 ### Research Assistants
@@ -36,6 +40,7 @@ The local Members are based in Rio de Janeiro, Brazil, at the School of Applied 
 - Dr. Marcio Maciel Bastos: Based in Fortaleza, Ceará, works on Dengue forecasting using Machine Learning.
 - Dr. Davi S. Barreira: Based n Fortaleza, Ceará, Works with Data visualization and category theory.
 - Dr. Anielli Souza: Based in São Paulo, works on geospatial modeling applied to infectious diseases.
+
 
 ## International members
 ### Postdocs
