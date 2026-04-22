@@ -17,3 +17,5 @@ Another big focus of my research revolves aroud data analysis and the applicatio
 [My publications](/publications "My publications")
 
 [Research team](/team "Research team")
+
+[Projects](/project "Projects")
