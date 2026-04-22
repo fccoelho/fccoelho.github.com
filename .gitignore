@@ -1,0 +1,27 @@
+# Hugo
+/public/
+/resources/_gen/
+.hugo_build.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+.venv/
+.ropeproject/
+
+# Node
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+.directory
+Thumbs.db
+
+# Lock files
+poetry.lock
+package-lock.json
