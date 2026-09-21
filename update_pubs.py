@@ -41,6 +41,8 @@ EXCLUDED_VENUES = ('zenodo',)
 # Works wrongly attributed to Flávio by OpenAlex authorship disambiguation.
 FALSE_POSITIVE_TITLES = {
     'towed array geometry estimation during ship’s maneuvering',
+    # Confirmed by Flávio (21/09/2026) as misattributed by OpenAlex
+    'stereological estimation of mean nuclear volume as prognostic factor in canine subcutaneous mast cell tumours',
     # OpenAlex duplicate of the JMIR 2023 EpigraphHub paper (without subtitle)
     'a platform for data-centric, continuous epidemiological analyses',
     # Version-variants of papers already on the list (journal versions kept):
